@@ -1,0 +1,28 @@
+MODELS
+    Student.js
+    StudentProfile.js
+    Instructor.js
+    Course.js
+    Lesson.js
+    Review.js
+    Category.js
+    Enrollment.js
+
+
+ROUTES
+studentRoutes.js
+    courseRoutes.js
+    instructorRoutes.js
+    lessonRoutes.js
+    reviewRoutes.js
+    categoryRoutes.js
+    enrollmentRoutes.js
+
+controllers
+│      studentController.js
+│      courseController.js
+│      instructorController.js
+│      lessonController.js
+│      reviewController.js
+│      categoryController.js
+│      enrollmentController.js
